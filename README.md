@@ -5,3 +5,4 @@ Growing list of fact of the days for my discord server.
 
 - Go to ```Community posted facts/```
 - Create a new file with the "Create new file" button
+![GitHub Logo](/images/create_new_file.png)
