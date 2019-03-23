@@ -1,4 +1,5 @@
-![Fact of the Day](/images/fact_of_the_day)
+![Fact of the Day](/images/fact_of_the_day.png)
+
 Growing list of fact of the days for my discord server.
 Everyone is free to add and instructions on how to add a fact is down below!
 
