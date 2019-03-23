@@ -14,3 +14,11 @@ Growing list of fact of the days for my discord server.
 ![File Rename](/images/file_rename.png)
 - Type in your new fact of the day. Only post 1 fact per file so that it is easier to search through and keep nots of what ones have been used.
 ![New Fact](/images/new_fact.png)
+
+- Once the fact is writen out you can then scroll down to the botom of the page and click the "Propose new file" button
+
+
+- And finally the last thing you have to do is click the big green "Create pull request" button and let me handle the rest
+
+
+- Just click the button again cause this part isnt needed.
