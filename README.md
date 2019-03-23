@@ -13,3 +13,4 @@ Growing list of fact of the days for my discord server.
 - Rename again to fact_#.txt where the # is what number the fact is starting from 1.
 ![File Rename](/images/file_rename.png)
 - Type in your new fact of the day. Only post 1 fact per file so that it is easier to search through and keep nots of what ones have been used.
+![New Fact](/images/new_fact.png)
