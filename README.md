@@ -1,14 +1,7 @@
 # fact of the Day
 Growing list of fact of the days for my discord server.
 
-## Instructions-
+## Instructions on how to add a fact-
 
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc
-- Create a new branch for your modifications (ie. ```git branch new-user``` and check it out ```git checkout new-user``` and ``` git checkout -b new-user```)
-- Add your profile page in Community posted facts\
-- Add your files (```git add -A```), commit (```git commit -m "added myself"```) and push (```git push origin new-user```)
-- Create a pull request
-- Star this repository
-- Wait for Pull Request to merge
-- Celebrate - you've done your first pull request!!
+- Go to ```Community posted facts/```
+- Create a new file with the "Create new file" button
