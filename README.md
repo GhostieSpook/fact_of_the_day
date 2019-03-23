@@ -1,5 +1,10 @@
-# fact of the Day
+# Fact of the Day
 Growing list of fact of the days for my discord server.
+Everyone is free to add and instructions on how to add a fact is down below!
+
+
+
+
 
 ## Instructions on how to add a fact-
 
