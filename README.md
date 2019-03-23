@@ -16,9 +16,12 @@ Growing list of fact of the days for my discord server.
 ![New Fact](/images/new_fact.png)
 
 - Once the fact is writen out you can then scroll down to the botom of the page and click the "Propose new file" button
-
+![Propose new file](/images/propose_new_file.png)
 
 - And finally the last thing you have to do is click the big green "Create pull request" button and let me handle the rest
-
+![Create pull request](/images/create_pull_request)
 
 - Just click the button again cause this part isnt needed.
+![Create pull request again](/images/create_pull_request_again.png)
+
+- And you are done!
