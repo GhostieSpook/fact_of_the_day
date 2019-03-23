@@ -3,7 +3,7 @@
 Growing list of fact of the days for my discord server.
 Everyone is free to add and instructions on how to add a fact is down below!
 
-## Join the Piano Tail Discord server if you are just a random viewer
+## Come join the Piano Tail Discord server if you are just a random viewer and havent already
 [![](https://discordapp.com/api/guilds/482975052355338252/embed.png?style=banner1)](https://discord.gg/ec4xmWM)
 
 ## Instructions on how to add a fact-
