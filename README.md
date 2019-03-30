@@ -12,7 +12,7 @@ Everyone is free to add and instructions on how to add a fact is down below!
 - Rename the file to your username and end it with / to create a folder
 ![Folder Creation](/images/folder_creation.png)
 
-- Rename again to fact_#.txt where the # is what number the fact is starting from 1.
+- Rename again to `Fact_#.txt` where the # is what number the fact is starting from 1. I know in the image it has it as `fact_#.txt`, but please make the "F" upercase. Makes it sort correctly when I mark them as used.
 ![File Rename](/images/file_rename.png)
 - Type in your new fact of the day. Only post 1 fact per file so that it is easier to search through and keep nots of what ones have been used.
 ![New Fact](/images/new_fact.png)
